@@ -4,7 +4,7 @@
 				"name": "OCI express",
 			"stops": [
 				{
-					"station": "Sycamore",
+					"station": "Bangalore",
 					"status": "ON-TIME",
 					"arrival": "12:00pm",
 					"departure": "12:10pm"
